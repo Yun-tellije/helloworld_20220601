@@ -7,6 +7,8 @@
 
 -옵션 없이 실행 시 기본 3초 간격으로 화면을 갱신하며 정보 출력
 
+![image](https://user-images.githubusercontent.com/104592745/171399618-ae2a0ec0-73b7-4433-ab51-49a5f238db47.png)
+
 
 *top 실행 전 옵션*
 | Command | Description |
@@ -30,6 +32,9 @@
 
 -현재 실행중인 프로세스의 목록과 상태를 보여주는 명령어
 
+![image](https://user-images.githubusercontent.com/104592745/171399707-dcee84f9-8d3f-4463-90c0-c804d5b83505.png)
+
+
 *옵션*
 | Command | Description |
 | --- | --- |
@@ -46,6 +51,10 @@
 - jobs
 
 -작업이 중지된 상태나 백그라운드로 진행 중인 상태를 표시하는 명령어
+
+![image](https://user-images.githubusercontent.com/104592745/171399924-ce5b28ff-34d1-4c4b-96ce-d23d75ca138a.png)
+
+
 *옵션*
 | Command | Description |
 | --- | --- |
