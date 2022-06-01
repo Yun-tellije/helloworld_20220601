@@ -70,6 +70,9 @@
 
 -시그널을 지정하지 않을 경우 기본 값인(15번) 정상 종료 시그널을 보냄
 
+![image](https://user-images.githubusercontent.com/104592745/171401368-d200cdb4-1092-477c-8d1e-798a01147da8.png)
+
+
 *옵션*
 | Command | Description |
 | --- | --- |
